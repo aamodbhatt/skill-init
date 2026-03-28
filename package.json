@@ -1,0 +1,13 @@
+{
+  "name": "skill-init",
+  "version": "1.0.0",
+  "description": "Install essential Claude agent skills in one command",
+  "main": "./bin/skill-init.js",
+  "bin": {
+    "skill-init": "./bin/skill-init.js"
+  },
+  "scripts": {
+    "start": "node ./bin/skill-init.js"
+  },
+  "dependencies": {}
+}
